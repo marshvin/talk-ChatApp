@@ -37,7 +37,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp" />
     <Button
-        android:id="@+id/btnlogin"
+        android:id="@+id/btn_Login"
         android:layout_width="150dp"
         android:layout_height="60dp"
         android:layout_below="@+id/edt_password"
@@ -47,10 +47,10 @@
         android:textSize="25dp"
         android:layout_centerHorizontal="true"/>
     <Button
-        android:id="@+id/btnsignup"
+        android:id="@+id/btn_Signup"
         android:layout_width="150dp"
         android:layout_height="60dp"
-        android:layout_below="@+id/btnlogin"
+        android:layout_below="@+id/btn_Login"
         android:layout_marginTop="10dp"
         android:background="@drawable/btn_background"
         android:text="Sign Up"
